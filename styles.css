@@ -1,0 +1,21 @@
+h1{color: #d60606;
+	font-family: 'Germania One', cursive;
+}
+li{color:#555c5f ;}
+body {
+  background: black url("https://pm1.narvii.com/6471/f0abedb7768c8785bef2dd91d4118f1c1abccc7f_hq.jpg")  no-repeat fixed center;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+img {
+  border-radius: 30%;
+}
+
+img {
+  border:8px solid #FF4500;
+    margin:5px;
+    padding:0px;    
+}
